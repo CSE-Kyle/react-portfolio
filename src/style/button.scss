@@ -1,0 +1,3 @@
+.btn {
+    @include base-btn(); // calling mixins in scss
+}
